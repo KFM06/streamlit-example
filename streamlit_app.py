@@ -1,3 +1,4 @@
+!pip install folium
 import folium
 
 #Creating the map object
